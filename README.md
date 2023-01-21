@@ -1,2 +1,2 @@
-# betomo
+# BeTomo / Política de Privacidad
 BeTomo
